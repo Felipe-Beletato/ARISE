@@ -71,3 +71,5 @@ htmlcov/
 .obsidian/workspace.json
 .obsidian/workspaces.json
 .obsidian/cache/
+.obsidian/graph.json
+.obsidian/workspace-mobile.json
