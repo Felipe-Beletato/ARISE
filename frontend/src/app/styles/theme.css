@@ -1,0 +1,44 @@
+@theme {
+
+    /* ===========================
+       COLORS
+    =========================== */
+
+    --color-background: #0D0D0D;
+    --color-surface: #18181B;
+    --color-surface-hover: #222226;
+
+    --color-border: #2A2A2E;
+
+    --color-foreground: #F5F5F5;
+    --color-muted: #A1A1AA;
+
+    --color-primary: #B91C1C;
+    --color-primary-hover: #991B1B;
+
+    --color-success: #16A34A;
+    --color-warning: #CA8A04;
+    --color-danger: #DC2626;
+
+    /* ===========================
+       RADIUS
+    =========================== */
+
+    --radius-card: 12px;
+    --radius-button: 10px;
+
+    /* ===========================
+       SPACING
+    =========================== */
+
+    --spacing-page: 2rem;
+    --spacing-card: 1.5rem;
+
+    /* ===========================
+       SHADOWS
+    =========================== */
+
+    --shadow-card:
+        0 2px 8px rgba(0,0,0,.35);
+
+}
